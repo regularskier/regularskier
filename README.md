@@ -1,2 +1,0 @@
-# regularskier
-Work of AK
